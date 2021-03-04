@@ -1,0 +1,15 @@
+.App {
+  margin: auto;
+  font-size: .75rem;
+  background-image: url('./image/background.jpg');
+}
+.nav {
+  float:'right';
+}
+.link {
+  float:'right';
+}
+nav Link {
+  padding: 14px 16px;
+  text-decoration: none;
+}
